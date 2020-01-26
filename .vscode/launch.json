@@ -22,6 +22,15 @@
             "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\variables\\variables.go",
             "env": {},
             "args": []
+        },        
+        {
+            "name": "3 - Tipos",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\myType\\myType.go",
+            "env": {},
+            "args": []
         }
     ]
 }
