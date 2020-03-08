@@ -9,7 +9,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\hello\\hello.go",
+            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\1_hello\\hello.go",
             "env": {},
             "args": []
         },
@@ -19,7 +19,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\variables\\variables.go",
+            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\2_variables\\variables.go",
             "env": {},
             "args": []
         },        
@@ -28,7 +28,17 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\myType\\myType.go",
+            "program": "C:\\Users\\Pando\\Documents\\GitHub\\basic-go\\3_myType\\myType.go",
+            "env": {},
+            "args": []
+        },        
+        {
+            "name": "4 - Punteros",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "C:\\ts\\data\\go-workspace\\basic-go\\4_pointer\\pointer.go",
+            
             "env": {},
             "args": []
         }
